@@ -1,0 +1,4 @@
+```txt
+qiskit
+qiskit-aer
+matplotlib
